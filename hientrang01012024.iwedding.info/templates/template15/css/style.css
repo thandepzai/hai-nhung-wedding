@@ -4530,7 +4530,7 @@ img {
 
 .event-section .event-grids .grid {
   background: #fff;
-  width: calc(25% - 20px);
+  width: calc(40% - 30px);
   float: left;
   padding: 20px;
   margin: 0 10px 30px;
@@ -8639,4 +8639,9 @@ img {
   .story-section ul li .img-show-hideinmobile {
     display: block;
   }
+}
+
+.atcb-button {
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
